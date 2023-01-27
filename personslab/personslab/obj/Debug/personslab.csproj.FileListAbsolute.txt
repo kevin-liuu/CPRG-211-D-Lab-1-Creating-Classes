@@ -1,0 +1,8 @@
+C:\Users\kevun\OneDrive\Documents\CPRG214\personslab\personslab\bin\Debug\personslab.exe.config
+C:\Users\kevun\OneDrive\Documents\CPRG214\personslab\personslab\bin\Debug\personslab.exe
+C:\Users\kevun\OneDrive\Documents\CPRG214\personslab\personslab\bin\Debug\personslab.pdb
+C:\Users\kevun\OneDrive\Documents\CPRG214\personslab\personslab\obj\Debug\personslab.csproj.AssemblyReference.cache
+C:\Users\kevun\OneDrive\Documents\CPRG214\personslab\personslab\obj\Debug\personslab.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevun\OneDrive\Documents\CPRG214\personslab\personslab\obj\Debug\personslab.csproj.CoreCompileInputs.cache
+C:\Users\kevun\OneDrive\Documents\CPRG214\personslab\personslab\obj\Debug\personslab.exe
+C:\Users\kevun\OneDrive\Documents\CPRG214\personslab\personslab\obj\Debug\personslab.pdb
